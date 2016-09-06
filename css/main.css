@@ -1,0 +1,49 @@
+body {
+    background-image: url("/images/Youtube-Logo.png");
+}
+
+header,
+section {
+    text-align: center;
+}
+
+header {
+    background-color: green;
+}
+
+header h1 {
+    font-family: sans-serif;
+    margin-bottom: 0em;
+}
+
+section #user-input {
+    background-color: black;
+}
+
+#user-input {
+    margin-bottom: 0em;
+    margin-top: 0em;
+}
+
+.results {
+    font-weight: bold;
+}
+
+input {
+    text-align: center;
+}
+
+.push-button {
+    color: red;
+}
+
+.results ul {
+    list-style: none;
+}
+
+.results ul li {
+    display: inline-block;
+    width: 48%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
